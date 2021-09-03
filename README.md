@@ -1,5 +1,7 @@
 # SliceGAN_AdaIN
 
+[![DOI](https://zenodo.org/badge/381998830.svg)](https://zenodo.org/badge/latestdoi/381998830)
+
 This repository is the official codebase for "Reusability Report: Feature Disentanglement in generating three-dimensional structure from two-dimensional slice with sliceGAN", which is a reusability report on this [paper](https://www.nature.com/articles/s42256-021-00322-1). Implemented codes are heavily based on the [original implementation of SliceGAN](https://github.com/stke9/SliceGAN), which is extended to enable feature disentanglement via Adaptive Instance Normalization (AdaIN).
 
 Slight modifications were made to the original python files, and hence the ```.py``` files were renamed to
